@@ -21,6 +21,7 @@ secondary_colors = {
 }
 
 while True:
+    print("Enter the colors that you want to mix.")
     # Get input from user for the first color
     first_color = input("Enter first color: ").lower()
 
